@@ -1,6 +1,6 @@
 {
   "name": "@tovaswapui/uikit",
-  "version": "0.68.6",
+  "version": "0.68.7",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/chdomenech/pancake-toolkit/tree/master/packages/pancake-uikit",
+  "repository": "https://github.com/tovaswap1/tovaswap-toolkit/tree/main/packages/pancake-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
@@ -32,6 +32,7 @@
     "@testing-library/react": "^11.2.5",
     "@types/lodash": "^4.14.168",
     "@types/react-dom": "^17.0.5",
+    "@types/styled-components": "^5.1.24",
     "jest-styled-components": "^7.0.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
